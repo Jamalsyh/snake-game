@@ -8,6 +8,12 @@ Made with PyGame
 
 """
 
+
+"""
+humm
+
+"""
+
 import pygame, sys, time, random
 
 
