@@ -6,10 +6,6 @@ Snake Eater
 Made with PyGame
 
 
-by me 
-enjoy guys
-
-
 """
 
 import pygame, sys, time, random
