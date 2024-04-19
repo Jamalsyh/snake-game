@@ -12,6 +12,8 @@ Made with PyGame
 """
 humm
 
+nice
+
 """
 
 import pygame, sys, time, random
