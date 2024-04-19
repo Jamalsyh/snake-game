@@ -11,6 +11,9 @@ pip3 install pygame
 ```
 
 
+gg
+
+
 ## Running the application
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 ```
